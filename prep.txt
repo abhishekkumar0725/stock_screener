@@ -1,0 +1,12 @@
+Steps:
+    -Data Pulling
+    -Data Cleaning
+    -Clustering
+    -Finding stock picks
+
+APIs:
+    -Quantopian
+        -Backtesting
+    -Quandl
+        -Data Retrieval
+
