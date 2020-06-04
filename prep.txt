@@ -1,12 +1,15 @@
 Steps:
-    -Data Pulling
+    -Data Pulling - Alpha Vantage
     -Data Cleaning
+    -Calculate Tech Indicators - TA Lib
     -Clustering
-    -Finding stock picks
+    -Finding stock picks - Quantopian
 
 APIs:
-    -Quantopian
+    -Quantopian/Zipline
         -Backtesting
-    -Quandl
+    -Alpha Vantage
         -Data Retrieval
+    -TA Lib
+        -Technical Indicator Calculator
 
